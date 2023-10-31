@@ -92,7 +92,7 @@ experience:
 
   items:
     - company: ShenZhen BlueOcean Pay Network Technology Limited Company
-    link:
+      link:
       tags: Full-time
       date: 2017.10 - 2018.10
       role: Backend Developer
