@@ -110,6 +110,7 @@ experience:
       location: Shenzhen
       description: |
         I have primarily served as a systems architect and senior development engineer, witnessing the project's launch and the growth from thousands to millions of users. Throughout this journey, I have tackled the challenges arising from the increasing scale of the user base, addressing concurrent access issues. I have devised optimization strategies from a holistic standpoint down to the granular level. Through initial architectural adjustments, I temporarily ensured system availability, followed by the elimination of hidden risks, optimization, and fine-tuning of intricate details, including application refactoring and data structure enhancements.
+        
         + Designing and expanding the backend system architecture and managing server clusters.
         + Leading the technical selection of new products, refactoring legacy products, and establishing relevant interface standards.
         + Establishing and deploying a comprehensive project management system for task coordination and management.
