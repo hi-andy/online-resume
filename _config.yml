@@ -16,9 +16,9 @@ analytics:
   google:                   # google analytics
   cloudflare:               # cloudflare analytics
   umami:
-    script: https://u.tarrex.com/u.js                # umami analytics script src (Replace it with your own config)
-    website_id: af636e2d-31ae-46f1-9071-82b1745143a9 # umami analytics website id (Replace it with your own config)
-    domains: tarrex.github.io,tarrex.com             # umami analytics domains (Replace it with your own config)
+    script: https://analytics.eu.umami.is/script.js                # umami analytics script src (Replace it with your own config)
+    website_id: cdc14882-8855-4afe-b873-bfeb33d3eff1 # umami analytics website id (Replace it with your own config)
+    domains: blog.yonghua.me             # umami analytics domains (Replace it with your own config)
 description:
 open_graph:
   enable: true                        # enable open graph meta tags
