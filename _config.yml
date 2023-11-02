@@ -18,7 +18,7 @@ analytics:
   umami:
     script: https://analytics.eu.umami.is/script.js                # umami analytics script src (Replace it with your own config)
     website_id: cdc14882-8855-4afe-b873-bfeb33d3eff1 # umami analytics website id (Replace it with your own config)
-    domains: yonghua.me,blog.yonghua.me            # umami analytics domains (Replace it with your own config)
+    domains: hi-andy.github.io,yonghua.me,blog.yonghua.me            # umami analytics domains (Replace it with your own config)
 description:
 open_graph:
   enable: true                        # enable open graph meta tags
