@@ -7,7 +7,7 @@ basic:
 
 contact:
   # meta
-  location: Shenzhen, China # location
+  location: ShenZhen, China # location
   email: yonghua.me@outlook.com    # email address
   phone: +86-176-8899-3595 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: yonghua.me     # site URL without schema, like example.com, will automatically prepand "https://"
@@ -20,15 +20,15 @@ contact:
 
   # contact
   wechat:                  # username
-  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
-  telegram:                # username          | https://t.me/username
+  whatsapp:  8617688993595 # 8611122223333     | https://wa.me/8611122223333
+  telegram:  AndyHelloo    # username          | https://t.me/username
   messenger:               # username          | https://m.me/username
   line:                    # lineid            | https://line.me/R/ti/p/@lineid
   viber:                   # username          | https://vb.me/username
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github:  hi-andy                # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -91,12 +91,20 @@ experience:
   description: |
 
   items:
+    - company: Blockchain technologies related works
+      link:
+      tags: Full-time
+      date: 2018.11 - 2022.5
+      role: Full stack Developer
+      location: ShenZhen
+      description: |
+        During this period, I have primarily been engaged in blockchain-related development work, specifically full-stack development in the web3 domain. The products I have worked on include blockchain wallet development, asset management systems, blockchain multi-currency payment systems, smart contract development and deployment, NFT development, and IPFS system setup and deployment.
     - company: ShenZhen BlueOcean Pay Network Technology Limited Company
       link:
       tags: Full-time
       date: 2017.10 - 2018.10
       role: Backend Developer
-      location: Shenzhen
+      location: ShenZhen
       description: |
         The product is BlueOcean Pay, a payment aggregation platform primarily focused on overseas versions of WeChat Pay, Alipay, and other payment methods. The project has investment from a Hong Kong team, and the initial phase of business operations was launched in Hong Kong. The ultimate vision is to provide fast and convenient payment services for Chinese tourists worldwide. The main achievement in terms of business is facilitating cross-border payments for general tourists, allowing them to directly use mainland WeChat Wallet and Alipay Wallet, with automatic conversion of intermediate fees. This model greatly benefits both tourists and merchants.
 
@@ -107,7 +115,7 @@ experience:
       tags: Full-time
       date: 2016.09 - 2017.10
       role: Leader | Backend Developer
-      location: Shenzhen
+      location: ShenZhen
       description: |
         I have primarily served as a systems architect and senior development engineer, witnessing the project's launch and the growth from thousands to millions of users. Throughout this journey, I have tackled the challenges arising from the increasing scale of the user base, addressing concurrent access issues. I have devised optimization strategies from a holistic standpoint down to the granular level. Through initial architectural adjustments, I temporarily ensured system availability, followed by the elimination of hidden risks, optimization, and fine-tuning of intricate details, including application refactoring and data structure enhancements.
         
@@ -123,7 +131,7 @@ experience:
         + Responsible for recruitment, team building, and skill assessments of relevant personnel.
 
 project:
-  show: true
+  show: false
   order: 3
   title: Projects
   description: |
@@ -143,64 +151,57 @@ project:
         + First
         + Second
 
-    - name: OSS project
-      link:
-      tags: committer
-      date:
-      description: |
-        OSS project description...
-        + First
-        + Second
-
 skill:
   show: true
   order: 4
   title: Skills
   description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
-
-    When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
-
-    There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
-
+    
   items:
-    - name: Skill A
-      level: 5
-    - name: Skill B
+    - name: PHP
       level: 4
-    - name: Skill C
+    - name: Python
+      level: 4
+    - name: Golang
+      level: 4
+    - name: NodeJS
+      level: 4
+    - name: Vue
+      level: 4
+    - name: Solidity
       level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
+    - name: AWS
       level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
+    - name: GCP
       level: 3
+    - name: Swift
+      level: 3
+    - name: Object-C
+      level: 2
+    - name: Fluter
+      level: 2
+    - name: Shell
+      level: 2
 
   groups:
-    - name: Group A Skills
+    - name: Blockchain
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - Solidity
+        - Hardhat
+        - Truffle
+        - NodeJS
+        - Python
+        - Vue
+    - name: E-commerce
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
+        - Magento
+        - WordPress
+        - WooCommerce
+        - OpenCart
+    - name: iOS
       item:
-        - Skill H
-        - Skill I
+        - Swift
+        - Object-C
 
 education:
   show: true
@@ -213,7 +214,7 @@ education:
       link: '#'
       date: 2003 - 2006
       major: Computer science
-      degree: College
+      degree: Three-year college Education
       description: |
 
 language:
@@ -221,13 +222,13 @@ language:
   order: 11
   title: Languages
   description: |
-    My English listening isn't good, but I can improve it quickly. I think that just need a chance to do more commutication with someone else.
+    My English listening isn't good, but I can improve it quickly. I think that just need a chance to do more communication with someone else.
 
   items:
     - idiom: Chinese
       level: Native
     - idiom: English
-      level: Good[Read, wirte]
+      level: Good
 
 interest:
   show: false
