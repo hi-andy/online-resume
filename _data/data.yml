@@ -166,6 +166,12 @@ skill:
       level: 4
     - name: NodeJS
       level: 4
+    - name: MySQL
+      level: 4
+    - name: Redis
+      level: 4
+    - name: RabbitMQ
+      level: 4
     - name: Vue
       level: 4
     - name: Solidity
